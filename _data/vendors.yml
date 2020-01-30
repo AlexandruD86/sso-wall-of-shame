@@ -149,6 +149,15 @@
     - https://twitter.com/brianebeyer/status/1053797786301489153
     - https://www.intercom.com/pricing
   updated_at: 2018-10-20
+  
+- name: Kisi
+  url: https://www.getkisi.com
+  base_pricing: Not Listed - Quote needed
+  sso_pricing: Not Listed - Quote needed
+  percent_increase: Quote Needed
+  pricing_source:
+    - https://www.getkisi.com/pricing
+  updated_at: 2020-01-30
 
 - name: Lucidchart
   url: https://www.lucidchart.com
